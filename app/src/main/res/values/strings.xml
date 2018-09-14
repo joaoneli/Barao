@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Mercearia Barao</string>
+    <string name="Nome">Nome do produto</string>
+    <string name="DescProduto">Descricao</string>
+    <string name="Um">Unidade de medida</string>
+    <string name="Valun">Valor unitario</string>
+    <string name="Qntdprod">Quantidade</string>
+    <string name="Categoria">Categoria</string>
+    <string name="OK">OK</string>
+    <string name="DescCat">Descricao</string>
+    <string name="NomeCat">Categoria</string>
+    <string name="Unidade_de_Medida">Unidade de Medida</string>
+
+    <string-array name="unidade_de_medida">
+        <item>Unidade de Medida</item>
+        <item>PCT</item>
+        <item>KG</item>
+        <item>G</item>
+        <item>Lt</item>
+        <item>Ml</item>
+        <item>M</item>
+        <item>Cm</item>
+    </string-array>
+
+</resources>
